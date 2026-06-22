@@ -1,1 +1,18 @@
-{}
+{
+    "testing": {
+        "projectName": "testing",
+        "description": "lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/flow-designer",
+        "githubUri": "https://github.com/rizarsyi/flow-designer",
+        "license": "apache-2.0",
+        "lastUpdated": "1782097377092",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
