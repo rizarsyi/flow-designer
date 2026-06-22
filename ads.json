@@ -14,5 +14,21 @@
         ],
         "noDirectLaunch": [],
         "configs": {}
+    },
+    "test 2": {
+        "projectName": "test 2",
+        "description": "dsdasd",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/flow-designer",
+        "githubUri": "https://github.com/rizarsyi/flow-designer",
+        "license": "apache-2.0",
+        "lastUpdated": "1782099396417",
+        "tags": [
+            "community"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
