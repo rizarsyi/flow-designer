@@ -30,5 +30,21 @@
         ],
         "noDirectLaunch": [],
         "configs": {}
+    },
+    "test 3": {
+        "projectName": "test 3",
+        "description": "Lorem ipsum dolor sit amet",
+        "type": "community",
+        "author": "rizarsyi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rizarsyi/flow-designer",
+        "githubUri": "https://github.com/rizarsyi/flow-designer",
+        "license": "apache-2.0",
+        "lastUpdated": "1782202068183",
+        "tags": [
+            "community"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
     }
 }
