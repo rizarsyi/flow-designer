@@ -13,7 +13,10 @@
             "authentication"
         ],
         "noDirectLaunch": [],
-        "configs": {}
+        "configs": {
+            "co.acme.SmsOTP": {}
+        },
+        "name": "testing"
     },
     "test 2": {
         "projectName": "test 2",
