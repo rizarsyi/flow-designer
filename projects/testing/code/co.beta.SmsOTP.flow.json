@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "startNode-0e6379df-21bd-4add-8e71-80ec61facfd0",
+      "type": "startNode",
+      "sourcePosition": "right",
+      "position": {
+        "x": 30,
+        "y": 30
+      },
+      "deletable": false,
+      "data": {
+        "id": "startNode-0e6379df-21bd-4add-8e71-80ec61facfd0",
+        "type": "startNode",
+        "position": {
+          "x": 30,
+          "y": 40
+        },
+        "agamaData": {
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": "",
+          "flowname": "co.acme.SmsOTP",
+          "displayName": "sms otp",
+          "creationDate": "29/07/2026",
+          "hasComment": true,
+          "comment": ""
+        }
+      }
+    }
+  ]
+}
